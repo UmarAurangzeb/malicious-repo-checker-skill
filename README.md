@@ -137,6 +137,12 @@ running unknown code in a disposable environment.
 When reporting the attacker's hosting to a provider's abuse form, **don't**
 tick "forward the report to the site owner". The owner is the attacker.
 
+## Contributing
+
+Seen a malicious repo with a different trick? Add it as a case study, a new
+scanner rule, or a test. See [CONTRIBUTING.md](CONTRIBUTING.md) for the format
+and the safety rules (no live payloads, inert fixtures only).
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
